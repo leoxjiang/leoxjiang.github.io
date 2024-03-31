@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Leo Jiang, a budding pianist from Wellesley, Massachusetts, resides in a cozy home with his parents and beloved younger sister. Introduced to the piano at the tender age of 4, Leo has since woven melodies into his daily life. Despite being a first-grader at Joseph Fiske Elementary School, his musical talent shines brightly. Beyond the piano keys, Leo immerses himself in the digital realms of Minecraft and the imaginative narratives of comic books, particularly enthralled by the Dogman series. Among his favorite creatures is the humble hedgehog, a reflection of his gentle and curious nature.
