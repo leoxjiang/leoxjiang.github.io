@@ -1,0 +1,25 @@
+---
+layout: base
+---
+<div class="post">
+
+    <h2> Honors & Awards </h2>
+    {% assign posts = site.posts %}
+    {%- if posts.size > 0 -%}
+      <ul>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- for post in posts -%}
+        {% if post.categories contains "award" %}
+        <li>
+          <p>{{ post.date | date: date_format }}: {{ post.meta | escape }}
+            <a href="{{ post.url | relative_url }}">
+                [More]
+            </a>
+        </p>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+</div>

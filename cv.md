@@ -1,6 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Awards
 permalink: /awards/
 ---
-asdf

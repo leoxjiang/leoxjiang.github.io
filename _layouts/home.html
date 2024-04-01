@@ -12,7 +12,7 @@ layout: base
 
   .column {
       flex: 1;
-      padding: 20px;
+      padding: 0px;
   }
 
   /* Adjust styles as needed */
@@ -30,7 +30,7 @@ layout: base
 
   <div class="container">
     <div class="column left-column">
-        <h2> About Me </h2>
+        <h2> About Me<Menu></Menu> </h2>
         <p>Hello there. Welcome to my website.</p>
     </div>
     <div class="column right-column">
@@ -53,10 +53,11 @@ layout: base
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+      {% if post.categories contains "" %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
@@ -64,6 +65,7 @@ layout: base
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
 
