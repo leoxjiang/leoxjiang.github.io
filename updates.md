@@ -4,4 +4,4 @@ title: Updates
 permalink: /updates/
 ---
 
-asdfsd
+Coming soon ...
