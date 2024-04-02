@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Piano Star International Competition"
+title: "XV Chopin International Piano Competition"
 categories: award
-meta: "First Prize, Chopin International Piano Competition, Hartford CT"
+meta: "First Prize, XV Chopin International Piano Competition, Hartford CT"
 ---
 
 

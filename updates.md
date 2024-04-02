@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Updates
-permalink: /updates/
+title: Activities
+permalink: /activity/
 ---
 
 Coming soon ...

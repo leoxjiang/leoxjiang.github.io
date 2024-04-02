@@ -13,6 +13,7 @@ layout: base
   .column {
       flex: 1;
       padding: 10px;
+      float: left;
   }
 
   /* Adjust styles as needed */
@@ -31,14 +32,17 @@ layout: base
   <div class="container">
     <div class="column left-column">
         <h2> About Me<Menu></Menu> </h2>
-        <p>Hello there. Welcome to my website.</p>
+        <p>Hello, there. I am Leo Jiang. Welcome to my website.</p>
+        <div class="social-links">
+          {%- include social.html -%}
+        </div>
     </div>
     <div class="column right-column">
         <img src="/images/leojiang.jpg" alt="Leo's Image">
     </div>
   </div><hr>
 
-  <h2> Recent Updates </h2>
+  <h2> Recent Activities </h2>
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
@@ -50,22 +54,20 @@ layout: base
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <ul>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      {% if post.categories contains "" %}
+      {%- for post in posts limit:5 -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <p>
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
-      {%- endif -%}
       {%- endfor -%}
     </ul>
 

@@ -29,6 +29,7 @@ plugins:
 header_pages:
   - about.md
   - cv.md
+  - music.md
   - updates.md
 
 # Set to `true` to show excerpts on the homepage.
