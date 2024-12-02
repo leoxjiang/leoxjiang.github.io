@@ -6,6 +6,7 @@ meta: "First Prize, XV Chopin International Piano Competition, Hartford CT"
 ---
 
 Leo receiving the award
+
 ![Leo Picture](/images/2024xvChopin1.jpg)
 
 Official Facebook Link

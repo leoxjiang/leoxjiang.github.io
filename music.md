@@ -1,7 +1,7 @@
 ---
 layout: music
-title: Music
-permalink: /music/
+title: Updates
+permalink: /updates/
 ---
 
 Coming soon ...
