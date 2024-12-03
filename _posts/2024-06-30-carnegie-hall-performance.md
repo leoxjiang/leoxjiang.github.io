@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "The Piano Star Winners' Concert"
-categories: music
+title: "Performed at Carnegie Hall -- The Piano Star Winners Concert"
+categories: performance
 meta: "First time performed in the Carnegie Hall, New York City, New York"
-note: Scholarship for summer festival and invitation to winner's concert in Warsaw, Poland
+note: ""
 ---
 
-This is my first time playing the piano in Carnegie Hall. I am so honored. 
+This is my first time playing the piano at Carnegie Hall. I am so honored. 
 
 
-![Group Photo](/images/20240630CarnegieHall.jpg)
+<a href="/images/piano/20240630CarnegieHall.jpg" target="_blank">
+    <img src="/images/piano/20240630CarnegieHall.jpg" alt="group photo" height="200"/>
+</a>
+<a href="/images/piano/20240630CarnegieHall2.jpg" target="_blank">
+    <img src="/images/piano/20240630CarnegieHall2.jpg" alt="group photo" height="200"/>
+</a>
+<a href="/images/piano/20240630CarnegieHall3.jpg" target="_blank">
+    <img src="/images/piano/20240630CarnegieHall3.jpg" alt="door" height="200"/>
+</a>
+
