@@ -1,7 +1,5 @@
 ---
-layout: music
+layout: updates
 title: Updates
 permalink: /updates/
 ---
-
-Coming soon ...
