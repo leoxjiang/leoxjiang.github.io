@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunset at sea"
+title: "Sunset at the sea"
 categories: art
 meta: "Special Award"
 ---
