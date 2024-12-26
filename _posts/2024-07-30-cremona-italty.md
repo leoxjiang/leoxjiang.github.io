@@ -6,5 +6,5 @@ meta: "Special Prize for the Performance of Baroque Piece"
 ---
 
 <a href="/images/certificates/202407CremonaITBaroque.png" target="_blank">
-    <img src="/images/certificates/202407CremonaITBaroque.png" alt="group photo" height="200"/>
+    <img src="/images/certificates/202407CremonaITBaroque.png" alt="Certificate" height="200"/>
 </a>
