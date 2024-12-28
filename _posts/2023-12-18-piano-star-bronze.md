@@ -8,4 +8,7 @@ note: "Invited to the winners' concert at Carnegie Hall, NYC"
 ---
 
 Congratulations to everyone!
-![Official Result](/images/2023PianoStarGroup-A-Winners-5-1024x576.png)
+
+<a href="/images/piano/2023PianoStarGroup-A-Winners-5-1024x576.png" target="_blank">
+    <img src="/images/piano/2023PianoStarGroup-A-Winners-5-1024x576.png" alt="group photo" height="200"/>
+</a>

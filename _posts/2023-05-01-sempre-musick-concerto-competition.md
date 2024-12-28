@@ -8,4 +8,4 @@ note: "Invited to Winners' Recital"
 
 Winners concert
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NbsuQ0z3ixI?si=EvZUSYDO8wNbmVq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe height="200" src="https://www.youtube.com/embed/NbsuQ0z3ixI?si=EvZUSYDO8wNbmVq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

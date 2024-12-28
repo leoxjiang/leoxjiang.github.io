@@ -11,5 +11,5 @@ I had a great time in Cremona, Italy in Summer 2024.
 
 
 <a href="/images/certificates/202407_cremona_special_award.png" target="_blank">
-    <img src="/images/certificates/202407_cremona_special_award.png" alt="Certificate" height="200"/>
+    <img src="/images/certificates/202407_cremona_special_award.png" alt="Certificate" height="210"/>
 </a>
