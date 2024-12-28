@@ -6,7 +6,7 @@ meta: "First time performed in the Carnegie Hall, New York City, New York"
 note: ""
 ---
 
-This is my first time playing the piano at Carnegie Hall. I am so honored. 
+This is my first time playing the piano at Carnegie Hall. I am so honored. Video recording was prohibited.
 
 
 <a href="/images/piano/20240630CarnegieHall.jpg" target="_blank">
