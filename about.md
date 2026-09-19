@@ -4,4 +4,8 @@ title: Biography
 permalink: /bio/
 ---
 
-Leo Jiang, a budding pianist from Wellesley, Massachusetts, resides in a cozy home with his parents and beloved younger sister. Introduced to the piano at the tender age of 4, Leo has since woven melodies into his daily life. Despite being a first-grader, his musical talent shines brightly. Beyond the piano keys, Leo immerses himself in the digital realms of Minecraft and the imaginative narratives of comic books, particularly enthralled by the Dogman series. Among his favorite creatures is the humble hedgehog, a reflection of his gentle and curious nature.
+Hi, I'm Leo Jiang. I started learning piano when I was four years old. I enjoy classical music and have performed in recitals, concerts, and competitions. Piano has taught me to listen carefully, practice patiently, and share music with others.
+
+I am also a short-track speed skater. I train and compete with Bay State Speedskating Club. I like speed skating because it is fast, challenging, and always gives me something new to improve.
+
+When I am not playing piano or skating, I enjoy drawing, reading comics, and playing Minecraft. This website is where I share my music, skating, artwork, and other adventures.
