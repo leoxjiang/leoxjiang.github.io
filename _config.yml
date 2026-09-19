@@ -30,6 +30,7 @@ plugins:
 header_pages:
   - about.md
   - awards.md
+  - speed-skating.md
   - arts.md
   - updates.md
 
